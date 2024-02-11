@@ -1,0 +1,22 @@
+{
+    "id": 260,
+    "name": "Cognition",
+    "author": "EndLevel",
+    "creators": [],
+    "verifier": "Llqne",
+    "verification": "https://www.youtube.com/watch?v=dQHeFh1hea4",
+    "records": [
+        {
+            "user": "Cosmic",
+            "link": "https://www.youtube.com/watch?v=4slYOjzAFZw&t=2s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Hamster",
+            "link": "https://www.youtube.com/watch?v=cx_79FVPufg",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
